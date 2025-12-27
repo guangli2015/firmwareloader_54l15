@@ -1,0 +1,57 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints"/>
+ <ExecutionProfileWindow/>
+ <FrameBuffer/>
+ <Memory1/>
+ <Memory2/>
+ <Memory3/>
+ <Memory4/>
+ <Project>
+  <ProjectSessionItem path="firmwareLoader_54l15"/>
+  <ProjectSessionItem path="firmwareLoader_54l15;firmwareLoader_54l15"/>
+  <ProjectSessionItem path="firmwareLoader_54l15;firmwareLoader_54l15;NRF_DFU"/>
+  <ProjectSessionItem path="firmwareLoader_54l15;firmwareLoader_54l15;Setup"/>
+  <ProjectSessionItem path="firmwareLoader_54l15;firmwareLoader_54l15;softdevice_handler"/>
+  <ProjectSessionItem path="firmwareLoader_54l15;firmwareLoader_54l15;Source"/>
+ </Project>
+ <Register1/>
+ <Register2/>
+ <Register3/>
+ <Register4/>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Never"/>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="55" y="7" useTextEdit="1" path="Setup/nrf54l15_xxaa_application.ld" left="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="5" y="111" useTextEdit="1" path="Source/main.c" left="0" top="58" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="24" y="239" useTextEdit="1" path="Source/bootloader.c" left="0" top="204" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="25" y="574" useTextEdit="1" path="Source/softdevice/s115/s115_API/include/nrf_soc.h" left="0" top="547" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="2" y="248" useTextEdit="1" path="Source/ble_lbs_sample.c" left="0" top="193" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="27" y="93" useTextEdit="1" path="Source/dfu/nrf_dfu.c" left="0" top="33" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="48" y="66" useTextEdit="1" path="Source/ble_dfu/nrf_dfu_ble.c" left="0" selected="1" top="39" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" path="Source/softdevice_handler/irq_connect.c" left="0" top="6" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" path="Source/softdevice_handler/irq_forward.s" left="0" top="54" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" path="Source/softdevice_handler/nrf_sdh.c" left="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="47" y="200" useTextEdit="1" path="Source/softdevice_handler/nrf_sdh_ble.c" left="0" top="173" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" path="Source/softdevice_handler/nrf_sdh_soc.c" left="0" top="110" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="4" useTextEdit="1" path="../BLE_APP_nRF54L15/Setup/nrf54l15_xxaa_application.ld" left="0" top="0" codecName="Default"/>
+ </Files>
+ <EMStudioWindow activeProject="firmwareLoader_54l15" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Debug" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="" debugSearchPath="" autoConnectCapabilities="3199"/>
+</session>
