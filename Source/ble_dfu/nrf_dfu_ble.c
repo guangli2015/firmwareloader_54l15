@@ -64,7 +64,7 @@
 #include "prj_config.h"
 //#include <ble_adv.h>
 //#include <ble_gap.h>
-#define NRF_DFU_BLE_ADV_NAME "firmwareLoader2027"
+#define NRF_DFU_BLE_ADV_NAME "firmwareLoader"
 #define APP_ERROR_CHECK(ERR_CODE)                           \
     do                                                      \
     {                                                       \
